@@ -20,5 +20,10 @@ h2{
     margin-left:320px;
   margin-right: 320px;
 }
+img{
+  margin-left:320px;
+  margin-right: 320px;
+}
+
 @media (min-width:768px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
 @media (min-width:1024px) { /* big landscape tablets, laptops, and desktops */ }

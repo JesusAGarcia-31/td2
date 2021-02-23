@@ -23,7 +23,10 @@ img{
  
 }
 li{
-
+  list-style-type: none;
+}
+ul {
+  list-style-type: none;
 }
 
 @media (min-width:768px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }

@@ -19,15 +19,28 @@ h2{
   
 
 }
+
+
 img{
  
 }
+
+ul{
+  display:inline-block;
+  border:1px;
+  padding:20px;
+}
 li{
-  list-style-type: none;
+display: inline-block;
+background-color: #939799;
+vertical-align: top;
+padding: .4em 1em 1.5em .2em;
+margin-left: 1em;
+line-height: 1.6em;
+font-size: 1em;
+
 }
-ul {
-  list-style-type: none;
-}
+
 
 @media (min-width:768px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
 @media (min-width:1024px) { /* big landscape tablets, laptops, and desktops */ }

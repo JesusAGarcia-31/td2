@@ -13,21 +13,17 @@ p{
     color:darkslategray;
 }
 footer{
-    margin-left:320px;
-  margin-right: 320px;
+ 
 }
 h2{
-    margin-left:490px;
-  margin-right: 490px;
+  
 
 }
 img{
-  margin-left:320px;
-  margin-right: 320px;
+ 
 }
 li{
-  margin-left:320px;
-  margin-right: 320px;
+
 }
 
 @media (min-width:768px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }

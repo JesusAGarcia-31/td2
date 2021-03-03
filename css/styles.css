@@ -4,16 +4,23 @@
 }
 hr{
   width:90%;
+  color:black;
+}
+.top{
+  text-decoration:black;
+  
 }
 header{
   background-color: rgb(204, 204, 204);
 }
-
 p{
-  color:darkslategray;
+  color:rgb(0, 0, 0);
+}
+footer{
+  background-color: rgb(204, 204, 204);
 }
 h2{
-  color:rgb(94, 88, 88);
+  color:rgb(0, 0, 0);
 }
 .profile-image{
   width:50%;

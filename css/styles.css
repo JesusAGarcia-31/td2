@@ -2,14 +2,15 @@
   text-align:center;
   font-family:Arial, Helvetica, sans-serif,
 }
-
-
+hr{
+  width:90%;
+}
 header{
   background-color: rgb(204, 204, 204);
 }
 
 p{
-      color:darkslategray;
+  color:darkslategray;
 }
 h2{
   color:rgb(94, 88, 88);

@@ -17,6 +17,9 @@ hr{
 .main-content{
   
 }
+hr{
+  color:darkslategray;
+}
 header{
   background-color: rgb(204, 204, 204);
 }

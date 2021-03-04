@@ -8,12 +8,14 @@ hr{
 }
 .top{
   text-decoration: none;
+  color:darkslategray;
 }
 .backtp{
   text-decoration: none;
+  color:darkslategray;
 }
 .main-content{
-
+  
 }
 header{
   background-color: rgb(204, 204, 204);
@@ -28,7 +30,7 @@ h2{
   color:rgb(0, 0, 0);
 }
 .profile-image{
-  width:50%;
+  width:60%;
 }
 img {
   width:90%;

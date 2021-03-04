@@ -6,16 +6,32 @@ hr{
   width:90%;
   color:black;
 }
+body{
+  margin:0%;
+}
+#home{
+  padding-top:1em;
+  margin-top:0%;
+}
 .top{
   text-decoration: none;
   color:darkslategray;
 }
 .backtp{
   text-decoration: none;
-  color:darkslategray;
+  color:black;
+  float:right;
 }
 .main-content{
   
+}
+.name{
+  
+}
+.clearfix::after {
+	content: ‘’;
+	display: table;
+	clear: both;
 }
 hr{
   color:darkslategray;
@@ -29,6 +45,8 @@ p{
 }
 footer{
   background-color:lightgray;
+  padding-bottom:1em;
+  margin-bottom:0%;
 }
 h2{
   color:rgb(0, 0, 0);

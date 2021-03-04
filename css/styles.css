@@ -31,6 +31,8 @@ body{
 }
 .name{
   font-size:15px;
+  float: left;
+  padding-bottom: 10px;
 }
 .clearfix::after {
 	content: ‘’;

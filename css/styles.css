@@ -21,12 +21,13 @@ body{
   text-decoration: none;
   color:black;
   float:right;
+  font-size:15px;
 }
 .main-content{
   
 }
 .name{
-  
+  font-size:15px;
 }
 .clearfix::after {
 	content: ‘’;

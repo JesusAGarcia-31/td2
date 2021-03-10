@@ -78,7 +78,9 @@ display: inline-block;
     font-family: 'Roboto', sans-serif;
     vertical-align: center;
   }
-
-@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ }
-@media (min-width:768px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
-@media (min-width:1024px) { /* big landscape tablets, laptops, and desktops */ }
+@media screen and (min-width:768px){
+    
+}
+@media screen and (min-width:1024px){
+    
+}

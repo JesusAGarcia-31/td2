@@ -79,7 +79,13 @@ display: inline-block;
     vertical-align: center;
   }
 @media screen and (min-width:768px){
-  
+  .clearfix {
+    width:50%;
+  }
+  .searchp{
+    float:right;
+    padding-right:10px;
+  }
 }
 @media screen and (min-width:1024px){
     

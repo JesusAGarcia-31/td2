@@ -91,6 +91,9 @@ display: inline-block;
     width:50%;
     float:left;
   }
+  .backtp{
+    display:none;
+  }
 }
 @media screen and (min-width:1024px){
     

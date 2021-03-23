@@ -94,6 +94,10 @@ display: inline-block;
   .backtp{
     display:none;
   }
+  li{
+    display:inline;
+    background:none;
+  }
 }
 @media screen and (min-width:1024px){
     

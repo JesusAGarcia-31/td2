@@ -121,5 +121,19 @@ display: inline-block;
   }
 }
 @media screen and (min-width:1024px){
-    
+  .portfolio-item img {
+    margin-top: 15px;
+    min-height: 200px;
+    padding-left:1em;
+    margin:0;
+  }
+  .portfolio-item p {
+    padding: 0 10px;
+  }
+  .portfolio-item{
+    width:32%;
+  }
+  .p-tag{
+    font-size:25px;
+  }
 }

@@ -37,6 +37,7 @@ body{
   padding-bottom:0%;
   font-size:1em;
   margin-top:0;
+  padding-left:10px;
 }
 .clearfix::after {
 	content: '';
@@ -136,5 +137,15 @@ display: inline-block;
   .p-tag{
     font-size:25px;
   }
-  
+  .namep{
+    float:left;
+    padding-left:10px;
+  }
+  .main-nav{
+    font-size:25px;
+  }
+  ul{
+    padding-top:0;
+    margin-right:o;
+  }
 }

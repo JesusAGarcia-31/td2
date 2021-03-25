@@ -1,6 +1,6 @@
 *{
   text-align:center;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: "New Tegomin";
   box-sizing: border-box;
 }
 hr{
@@ -28,9 +28,6 @@ body{
 }
 .p-tag{
   font-size:18px;
-}
-.main-content{
-  
 }
 .name{
   float: left;
@@ -146,6 +143,7 @@ display: inline-block;
   }
   ul{
     padding-top:0;
-    margin-right:o;
+    margin-right:0;
+    float:right;
   }
 }

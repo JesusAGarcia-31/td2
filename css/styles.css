@@ -120,6 +120,7 @@ li{
   .p-tag{
     margin:15px;
     padding-top:35px;
+    text-align:left;
   }
 }
 @media screen and (min-width:1024px){
